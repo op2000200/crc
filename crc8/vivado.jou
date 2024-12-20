@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Dec 20 21:12:20 2024
+# Process ID: 8184
+# Current directory: D:/Users/Mine/d/crc8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7632 D:\Users\Mine\d\crc8\crc8.xpr
+# Log file: D:/Users/Mine/d/crc8/vivado.log
+# Journal file: D:/Users/Mine/d/crc8\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Users/Mine/d/crc8/crc8.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source tb_crc8_dvb_s2.tcl
+relaunch_sim
+run 10 s
+relaunch_sim
+run 10 s
+relaunch_sim
+run 10 s
+relaunch_sim
+relaunch_sim
+run 10 s
+run 10 s
+relaunch_sim
+run 10 s
+relaunch_sim

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1 (64-bit)
+# SW Build 3247384 on Thu Jun 10 19:36:33 MDT 2021
+# IP Build 3246043 on Fri Jun 11 00:30:35 MDT 2021
+# Start of session at: Fri Dec 20 21:15:03 2024
+# Process ID: 4052
+# Current directory: D:/Users/Mine/d/crc8/crc8.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/Users/Mine/d/crc8/crc8.sim/sim_1/behav/xsim/xsim.dir/tb_crc8_dvb_s2_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Users/Mine/d/crc8/crc8.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/Users/Mine/d/crc8/crc8.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/Users/Mine/d/crc8/crc8.sim/sim_1/behav/xsim/xsim.dir/tb_crc8_dvb_s2_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Fri Dec 20 21:15:04 2024...
